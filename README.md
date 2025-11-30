@@ -1,6 +1,8 @@
 # CityLAB Berlin Exhibition Catalog
 
 > Catalog of current and past exhibits at CityLAB Berlin, showcasing innovative digital projects for urban development and civic technology.
+>
+> **Official website:** https://citylab-berlin.org/de/exhibition/
 
 *Last updated: November 30, 2025*
 
