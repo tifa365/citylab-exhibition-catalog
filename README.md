@@ -23,7 +23,7 @@
 | Berlin Cooling Map | [Web map](https://erfrischungskarte.odis-berlin.de) | [erfrischungskarte-frontend](https://github.com/technologiestiftung/erfrischungskarte-frontend) |
 | Gieß den Kiez | [Web app](https://www.giessdenkiez.de) | [giessdenkiez-de](https://github.com/technologiestiftung/giessdenkiez-de) |
 | Shared Mobility Flows | [Bike sharing analysis prototype (map app)](https://bikesharing.citylab-berlin.org/) | [bikesharing-vis](https://github.com/technologiestiftung/bikesharing-vis) |
-| Open Data Cam | [Open source traffic counting](https://opendata.cam) | – |
+| Open Data Cam | [Open source traffic counting](https://opendata.cam) | [opendatacam](https://github.com/opendatacam/opendatacam) |
 
 ## Past Exhibits
 
