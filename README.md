@@ -29,7 +29,7 @@
 
 | Project | App / Website | Repository |
 |---------|---------------|------------|
-| Berlin Budget Data | [Interactive budget data visualization](https://haushaltsdaten.odis-berlin.de) | – |
+| Berlin Budget Data | [Interactive budget data visualization](https://haushaltsdaten.odis-berlin.de) | [haushaltsdaten](https://github.com/berlin/haushaltsdaten) |
 | Public Design Chatbot | [Web chatbot](https://chat.oeffentliches-gestalten.de) | [oeffentliches-gestalten-gpt-search](https://github.com/technologiestiftung/oeffentliches-gestalten-gpt-search) |
 | Kiezbot | [Project/code repository](https://github.com/technologiestiftung/kiezbot) | [kiezbot](https://github.com/technologiestiftung/kiezbot) |
 | Summer School – Radbahnflow | [CityLAB exhibition page](https://citylab-berlin.org/de/exhibition/radbahnflow/) | – |
